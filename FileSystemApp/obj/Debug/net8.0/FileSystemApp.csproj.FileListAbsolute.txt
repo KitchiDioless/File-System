@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\file\FileSystemApp\bin\Debug\net8.0\FileSystemApp.exe
+C:\Users\User\Desktop\file\FileSystemApp\bin\Debug\net8.0\FileSystemApp.deps.json
+C:\Users\User\Desktop\file\FileSystemApp\bin\Debug\net8.0\FileSystemApp.runtimeconfig.json
+C:\Users\User\Desktop\file\FileSystemApp\bin\Debug\net8.0\FileSystemApp.dll
+C:\Users\User\Desktop\file\FileSystemApp\bin\Debug\net8.0\FileSystemApp.pdb
+C:\Users\User\Desktop\file\FileSystemApp\obj\Debug\net8.0\FileSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\file\FileSystemApp\obj\Debug\net8.0\FileSystemApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\file\FileSystemApp\obj\Debug\net8.0\FileSystemApp.AssemblyInfo.cs
+C:\Users\User\Desktop\file\FileSystemApp\obj\Debug\net8.0\FileSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\file\FileSystemApp\obj\Debug\net8.0\FileSystemApp.dll
+C:\Users\User\Desktop\file\FileSystemApp\obj\Debug\net8.0\refint\FileSystemApp.dll
+C:\Users\User\Desktop\file\FileSystemApp\obj\Debug\net8.0\FileSystemApp.pdb
+C:\Users\User\Desktop\file\FileSystemApp\obj\Debug\net8.0\FileSystemApp.genruntimeconfig.cache
+C:\Users\User\Desktop\file\FileSystemApp\obj\Debug\net8.0\ref\FileSystemApp.dll
